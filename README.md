@@ -1,0 +1,2 @@
+# web_spring
+在IntelliJ IDEA下使用maven构建spring框架，通过体会项目构造基本知道spring框架的作用与效果。
